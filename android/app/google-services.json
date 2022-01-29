@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "403297760691",
+    "project_id": "kinjoude",
+    "storage_bucket": "kinjoude.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:403297760691:android:7dccba5bdaf7fc381487c6",
+        "android_client_info": {
+          "package_name": "Robin.Job.Posts"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "403297760691-ihbii49vimf834lh1bs23ohc75aeubn4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABEtCBXZwRe0J8aw38sWYDLjZHa79zJ2w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "403297760691-ihbii49vimf834lh1bs23ohc75aeubn4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "403297760691-t1hp6misajjogo666r49c6vphevn35co.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "Robin.Job.Posts"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
